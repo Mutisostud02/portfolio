@@ -21,7 +21,7 @@ export default function Projects({isOn}) {
             <div className="myProjects">
                 <div className="project-1">
                 <Profile
-                src="/src/assets/todo.webp"
+                src="/assets/todo.webp"
                 height="180"
                 width="200"
                 >
@@ -31,7 +31,7 @@ export default function Projects({isOn}) {
 
                 <div className="project-2">
                 <Profile
-                src="/src/assets/cv.webp"
+                src="/assets/cv.webp"
                 width="200"
                 height="180"
                 >
@@ -41,7 +41,7 @@ export default function Projects({isOn}) {
 
                 <div className="project-3">
                 <Profile
-                src="/src/assets/landingpage.webp"
+                src="/assets/landingpage.webp"
                 height="180"
                 width="200"
                 >
@@ -51,7 +51,7 @@ export default function Projects({isOn}) {
 
                 <div className="project-4">
                 <Profile
-                src="/src/assets/recipe.webp"
+                src="/assets/recipe.webp"
                 height="180"
                 width="200"
                 >
@@ -62,7 +62,7 @@ export default function Projects({isOn}) {
                 <div className="project-5">
                 <Profile
                 height="180"
-                src="/src/assets/library.webp"
+                src="/assets/library.webp"
                 >
                     <a href="" style={{color:textColor}}>Library</a>
                 </Profile>
@@ -71,7 +71,7 @@ export default function Projects({isOn}) {
                 <div className="project-6">
                 <Profile
                 height="180"
-                src="/src/assets/weatherapi.webp"
+                src="/assets/weatherapi.webp"
                 >
                     <a href="" style={{color:textColor}}>Weather forecast</a>
                 </Profile>
@@ -79,7 +79,7 @@ export default function Projects({isOn}) {
 
                 <div className="project-7">
                 <Profile
-                src="/src/assets/formgif.webp"
+                src="/assets/formgif.webp"
                 width="200"
                 height="180"
                 >
