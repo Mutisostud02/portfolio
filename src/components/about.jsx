@@ -3,7 +3,7 @@ export default function About() {
         <>
         <section className="about">
             <img 
-            src="src/assets/devpic.webp" 
+            src="/assets/devpic.webp" 
             alt="Codes"
             width={450}
             height='auto'
