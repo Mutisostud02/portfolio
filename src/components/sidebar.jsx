@@ -6,9 +6,9 @@ export default function Sidebar({onNavigate, sections, onChange, checked}) {
     return (
         <div className="sidebar">
         <Profile
-        srcSet="/src/assets/chris.webp 480w, ./src/assets/chr_zoomed_out.webp 800w"
+        srcSet="/assets/chris.webp 480w, /assets/chr_zoomed_out.webp 800w"
         sizes="(max-width: 480px) 300px, 500px"
-        src="/src/assets/chr_zoomed_out.webp"
+        src="/assets/chr_zoomed_out.webp"
         alt="Christopher Nthusi" 
         name="Christopher Nthusi"
         className="profileName"
