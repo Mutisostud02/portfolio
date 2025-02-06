@@ -2,21 +2,13 @@ import Profile from "./profile"
 import { useState } from "react"
 
 export default function Sidebar({onNavigate, sections, onChange, checked}) {
-    const [isOn, setIsOn] = useState(false);
-    function handleToggle(e) {
-        if(isOn){
-        setIsOn(false)
-        } else {
-            setIsOn(true)
-        }
-    }
-
+      
     return (
         <div className="sidebar">
         <Profile
-        srcSet="./src/assets/chris.webp 480w, ./src/assets/chr_zoomed_out.webp 800w"
+        srcSet="/src/assets/chris.webp 480w, ./src/assets/chr_zoomed_out.webp 800w"
         sizes="(max-width: 480px) 300px, 500px"
-        src="./src/assets/chr_zoomed_out.webp"
+        src="/src/assets/chr_zoomed_out.webp"
         alt="Christopher Nthusi" 
         name="Christopher Nthusi"
         className="profileName"
