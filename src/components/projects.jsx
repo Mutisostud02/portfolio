@@ -62,7 +62,7 @@ export default function Projects({isOn}) {
                 <div className="project-5">
                 <Profile
                 height="180"
-                src="/assets/library.webp"
+                src="/public/assets/library.webp"
                 >
                     <a href="" style={{color:textColor}}>Library</a>
                 </Profile>
