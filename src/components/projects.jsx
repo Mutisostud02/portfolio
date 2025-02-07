@@ -84,7 +84,7 @@ export default function Projects({isOn}) {
                 height="180"
                 >
                     <a 
-                    href=""
+                    href="https://mutisostud02.github.io/formValidate-API/"
                     style={{color:textColor}}
                     >Gif selector
                     </a>
