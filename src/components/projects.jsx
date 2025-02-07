@@ -25,7 +25,7 @@ export default function Projects({isOn}) {
                 height="180"
                 width="200"
                 >
-                    <a href="" style={{color:textColor}}>todo</a>
+                    <a href="https://mutisostud02.github.io/to-do-list/" style={{color:textColor}}>todo</a>
                 </Profile>
                 </div>
 
@@ -35,7 +35,7 @@ export default function Projects({isOn}) {
                 width="200"
                 height="180"
                 >
-                    <a href="" style={{color:textColor}}>CV</a>
+                    <a href="https://cv-by-chris.vercel.app/" style={{color:textColor}}>CV</a>
                 </Profile>
                 </div>
 
@@ -45,7 +45,7 @@ export default function Projects({isOn}) {
                 height="180"
                 width="200"
                 >
-                    <a href="" style={{color:textColor}}>homepage</a>
+                    <a href="https://mutisostud02.github.io/homepage/" style={{color:textColor}}>homepage</a>
                 </Profile>
                 </div>
 
@@ -55,7 +55,7 @@ export default function Projects({isOn}) {
                 height="180"
                 width="200"
                 >
-                    <a href="" style={{color:textColor}}>Recipe</a>
+                    <a href="https://mutisostud02.github.io/Food_recipes/" style={{color:textColor}}>Recipe</a>
                 </Profile>
                 </div>
 
@@ -64,7 +64,7 @@ export default function Projects({isOn}) {
                 height="180"
                 src="/assets/library.webp"
                 >
-                    <a href="" style={{color:textColor}}>Library</a>
+                    <a href="https://mutisostud02.github.io/library/" style={{color:textColor}}>Library</a>
                 </Profile>
                 </div>
 
@@ -73,7 +73,7 @@ export default function Projects({isOn}) {
                 height="180"
                 src="/assets/weatherapi.webp"
                 >
-                    <a href="" style={{color:textColor}}>Weather forecast</a>
+                    <a href="https://mutisostud02.github.io/weatherApp/" style={{color:textColor}}>Weather forecast</a>
                 </Profile>
                 </div>
 
