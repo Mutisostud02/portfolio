@@ -90,6 +90,19 @@ export default function Projects({isOn}) {
                     </a>
                 </Profile>
                 </div>
+                <div className="project-8">
+                <Profile
+                src="/assets/ICRHS.webp"
+                width="200"
+                height="180">
+                    <a
+                    href="https://icrhsinternational.org"
+                    style={{color:textColor}}    
+                    >                
+                    Complete project at icrhsinternational.org
+                    </a>
+                    </Profile>
+                </div>
             </div>
         </section>
 
