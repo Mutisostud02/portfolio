@@ -6,7 +6,7 @@ import Projects from "./components/projects";
 
 function App() {
   const [showMore, setShoreMore] = useState(false)
-  const [isOn, setIsOn] = useState(true);
+  const [isOn, setIsOn] = useState(false);
       function handleToggle(e) {
           if(isOn){
           setIsOn(false)
